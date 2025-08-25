@@ -1,0 +1,1 @@
+# ai_in_chemistry_qorkshop_2025
