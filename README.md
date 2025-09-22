@@ -17,7 +17,7 @@ Session 1
 
 Session 2
 * Importance of data quality for AI/ML
-* Data processing and exploratory data analysis
+* Data processing and exploratory data analysis: [Quiz](https://www.menti.com/alrb546pj3hm)
 * Applicability domains
 
 Session 3
