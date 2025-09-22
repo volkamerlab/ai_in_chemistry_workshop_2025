@@ -6,6 +6,10 @@ Pat Walters, Raquel López-Ríos de Castro, Afnan Sultan, Lisa-Marie Rolli, Andr
 
 ## Content
 
+Session 0 - [Pre-workshop](https://github.com/volkamerlab/ai_in_chemistry_workshop_2025/tree/main/Intro_Session)
+* Intro to Jupyter Notebooks
+* Basic Python functionality 
+
 Session 1
 * Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
 * Molecular representations
