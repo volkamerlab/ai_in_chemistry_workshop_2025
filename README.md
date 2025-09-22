@@ -47,7 +47,7 @@ Date: 2025-09-22, 1:00 - 6:00 pm
 <!-- TODO: Update colab links -->
 
 [0]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2025/blob/main/Intro_Session/session_0_intro_to_python.ipynb
-[1]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2025/blob/main/notebooks/1_ML_DL_data_representation.ipynb
+[1]: https://colab.research.google.com/gist/Afnan-Sultan/111fb1376659d526f8b57ca45dd8581a/session_1.ipynb
 [2]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2025/blob/main/notebooks/2_Data_Exploration.ipynb
 [3]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2025/blob/main/notebooks/3_Molecule_Generation/SMILES_RNN.ipynb
 [4]: https://colab.research.google.com/github/volkamerlab/ai_in_chemistry_workshop_2025/blob/main/notebooks/4_Active_Learning/active_regression.ipynb
